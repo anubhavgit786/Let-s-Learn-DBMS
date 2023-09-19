@@ -1,0 +1,10 @@
+1. A system containing multiple Hospitals, each with a unique identifier, name, and location.
+2. Each Hospital has multiple Departments, and each Department can be staffed by multiple Doctors.
+3. one department can be in many hospitals
+4. Each Doctor can work in multiple hospitals and have multiple Patients assigned.
+5. one doctor can work in multiple departments.
+6. one doctor can work in multiple hospitals.
+7. Patients are registered in the system with their unique identifier, name, and insurance details.
+8. Each Patient's visit records to different Hospitals, their medical tests, prescriptions, and billing details are tracked.
+9. The insurance details, claims, and settlements for each Patient are also maintained in the system.
+10. An emergency service module that includes ambulances and their locations, dispatch records(start time, end time), and patient transport details.
