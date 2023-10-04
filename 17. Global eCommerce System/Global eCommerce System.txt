@@ -1,0 +1,10 @@
+Global eCommerce System
+Use Cases
+1. Global platform that operates in multiple Countries. Each Country has specific rules and tax rates.
+2. Sellers register on the platform. Each Seller has a unique identifier and can operate in multiple Countries.
+3. Each Seller lists multiple Products with different pricing, tax rates, and shipping rules for each Country.
+4. Customers are registered in the platform from various Countries.
+5. Customers can place Orders containing multiple Products from multiple Sellers. The Order tracks the pricing, taxes, shipping details, and status (placed, shipped, delivered, returned) for each Product.
+6. A customer review and rating system for each product and seller, visible to all users.
+7. A returns and refunds management system, with different policies for each Country and Seller.
+8. A loyalty and rewards program with different tiers and benefits, and a points tracking system for each Customer.
